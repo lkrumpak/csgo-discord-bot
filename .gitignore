@@ -281,3 +281,4 @@ cython_debug/
 
 .idea
 rcon.py
+config.json

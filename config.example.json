@@ -1,0 +1,9 @@
+{
+    "server_ip": "CSGO_SERVER_IP",
+    "server_port": 27015,
+    "token" : "BOT_TOKEN_HERE",
+    "server_image": "https://www.exmaple.com/example.png",
+    "channel_id" : 1234567890,
+    "command_prefix" : ".",
+    "refresh_time" : 600
+}
